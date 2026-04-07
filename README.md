@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Adithyan+K" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Engineer | Python Developer from India</h3>
+<h3 align="center">Associate Engineer | Orion Innovation</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=adhi0903&label=Profile%20views&color=0e75b6&style=flat" alt="adhi0903" /> 
